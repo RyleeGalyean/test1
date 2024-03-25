@@ -11,3 +11,16 @@ h1{
 #most-popular{
     background-color: coral;
 }
+.header:hover::after{
+    color:skyblue;
+}
+
+.header:active::after{
+    color:red;
+}
+.header{
+    color:red;
+    font-size:40px;
+    font-family:fantasy;
+
+}
