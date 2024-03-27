@@ -11,15 +11,14 @@ h1{
 #most-popular{
     background-color: coral;
 }
-.header:hover {
-    color:skyblue;
-}
-
 .header{
     color:red;
     font-size:40px;
     font-family:fantasy;
     text-align: center;
+}
+.header:hover {
+    color:skyblue;
 }
 .main{
     text-align:center;
