@@ -17,7 +17,7 @@ h1{
     font-family:fantasy;
     text-align: center;
 }
-.header:hover {
+.header:hover h1 {
     color:skyblue;
 }
 .main{
